@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/workhaacked/static/css/main.c39012e5.css",
+    "main.js": "/workhaacked/static/js/main.cc5ac7c4.js",
+    "static/js/787.81dc7098.chunk.js": "/workhaacked/static/js/787.81dc7098.chunk.js",
+    "static/media/logo.svg": "/workhaacked/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/workhaacked/index.html",
+    "main.c39012e5.css.map": "/workhaacked/static/css/main.c39012e5.css.map",
+    "main.cc5ac7c4.js.map": "/workhaacked/static/js/main.cc5ac7c4.js.map",
+    "787.81dc7098.chunk.js.map": "/workhaacked/static/js/787.81dc7098.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c39012e5.css",
+    "static/js/main.cc5ac7c4.js"
+  ]
+}
